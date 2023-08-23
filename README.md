@@ -1,5 +1,4 @@
 # Customer_Churn_Prediction
-https://colab.research.google.com/drive/1jEkHsNL5_Xexr64Ixn0ol6juzipMwf4U?usp=sharing
 
 It is easier for a telecommunications company to retain existing subscribers than to acquire new subscribers.
 Likewise, it is easier to persuade a customer to stay when they have decided to leave than it is to persuade them to return after the customer has left.
