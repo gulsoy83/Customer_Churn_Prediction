@@ -16,6 +16,7 @@ customer's labels.
 ![Capture](https://github.com/gulsoy83/Customer_Churn_Prediction/assets/46426033/de41d209-fabe-45c1-b306-21c62d827df1)
 ***
 For further analysis, please check the telecomchurnanalysis_article.pdf and telecomSlide.pptx
+
 ![2](https://github.com/gulsoy83/Customer_Churn_Prediction/assets/46426033/fa38af22-1fa2-4b9e-b6d3-a59b0d1116f1)
 
 ![3](https://github.com/gulsoy83/Customer_Churn_Prediction/assets/46426033/7b744c3d-82cb-4290-a697-2d2cf62fce8b)
